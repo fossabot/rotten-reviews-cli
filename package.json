@@ -1,0 +1,25 @@
+{
+  "name": "rotten-reviews-cli",
+  "description": "CLI program for rotten-reviews 🍅",
+  "version": "1.0.0",
+  "repository": "https://github.com/ninetwenty-one/rotten-reviews-cli.git",
+  "author": "Griko Nibras <griko@ninetwenty.one> (https://ninetwenty.one)",
+  "main": "cli.js",
+  "bin": {
+    "rotten-reviews": "cli.js"
+  },
+  "keywords": [
+    "rotten-reviews",
+    "rotten-tomatoes",
+    "scrape-audience-reviews",
+    "scraper",
+    "scraping-websites",
+    "scraping"
+  ],
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "rotten-reviews": "^2.2.0"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
