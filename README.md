@@ -9,6 +9,8 @@ CLI wrapper for [`rotten-reviews`][rotten-reviews] 🍅
 [![Greenkeeper badge](https://badges.greenkeeper.io/ninetwenty-one/rotten-reviews-cli.svg)](https://greenkeeper.io)
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)][spectrum]
 
+[![asciicast](https://asciinema.org/a/217956.svg)](https://asciinema.org/a/217956)
+
 </div>
 
 - [Description](#description)
