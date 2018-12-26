@@ -7,8 +7,8 @@ CLI wrapper for [`rotten-reviews`][rotten-reviews] 🍅
 [![NPM version](https://img.shields.io/npm/v/rotten-reviews-cli.svg)](https://www.npmjs.com/package/rotten-reviews-cli)
 [![NPM download count](https://img.shields.io/npm/dt/rotten-reviews-cli.svg)](https://www.npmjs.com/package/rotten-reviews-cli)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ninetwenty-one/rotten-reviews-cli.svg)](https://greenkeeper.io)
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fninetwenty-one%2Frotten-reviews-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fninetwenty-one%2Frotten-reviews-cli?ref=badge_shield)
-[spectrum]
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)][spectrum]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fninetwenty-one%2Frotten-reviews-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fninetwenty-one%2Frotten-reviews-cli?ref=badge_shield)
 
 [![asciicast](https://asciinema.org/a/217956.svg)](https://asciinema.org/a/217956)
 
